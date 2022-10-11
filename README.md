@@ -12,7 +12,7 @@ $-> Image_Color_Detection.py
 ```
 3. Output
 
-[!image](result.png)
+![image](result.png)
 
 ## How to run (Jupyter Notebook - Anaconda)
 1. Download this repository and extract the file
